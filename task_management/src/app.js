@@ -17,11 +17,3 @@ app.listen(7000, async () => {
     connectToDB()
 
 })
-
-
-// title- String
-// dec - String
-// endDate - Date
-// isPrimary - bool
-// createdAt
-// updatedAt
